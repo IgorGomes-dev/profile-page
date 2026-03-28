@@ -31,7 +31,6 @@ header {
     left: 0;
     width: 100%;
     background-color: #010d2671;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(15px);
     box-shadow: 0 0 10px black;
     z-index: 100;
